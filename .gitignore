@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .DS_Store
 compiled/
 /doc/
@@ -5,3 +6,11 @@ compiled/
 *.bak
 \#*
 .\#*
+=======
+*~
+\#*
+.\#*
+.DS_Store
+compiled/
+/doc/
+>>>>>>> 645a4c0 (scaffold racket package)
